@@ -1,1 +1,2 @@
-{:deps {bidi {:mvn/version "2.1.5"}}}
+{:deps {bidi {:mvn/version "2.1.5"}
+        com.taoensso/tower {:mvn/version "3.0.2"}}}
